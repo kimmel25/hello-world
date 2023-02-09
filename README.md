@@ -1,5 +1,5 @@
 # hello-world
-#H1 This is my homework project
+# This is my homework project
 My name is **Dovi Kimmel**. 
 Here are *three* things about me:
 1. I'm in Yeshiva at Shor Yoshuv, Far Rockaway
